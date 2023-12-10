@@ -15,3 +15,6 @@ The model is developed without adjusting the imbalance nature of the data throug
 - xgboost version: 1.7.6
 - shap version: 0.42.1
 - seaborn version: 0.12.2 
+
+## Liscense:
+This project is liscensed under the MIT liscense.
